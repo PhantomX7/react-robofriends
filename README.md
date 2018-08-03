@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React + Redux
+Website : https://phantomx7.github.io/react-robofriends/
 
 To run the project:
 
