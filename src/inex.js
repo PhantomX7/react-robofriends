@@ -11,6 +11,7 @@ import { requestRobots, searchRobots } from './reducers'
 
 import './index.css';
 
+let status
 const logger = createLogger()
 
 const rootReducers = combineReducers({requestRobots, searchRobots})
